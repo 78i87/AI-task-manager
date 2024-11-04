@@ -1,2 +1,1 @@
-# AI-task-manager
-A repository for a task management system with LLM integration
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
